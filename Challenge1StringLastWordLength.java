@@ -4,7 +4,7 @@ public class Challenge1StringLastWordLength {
 	public static void main(String[] args) {
 		//String str="Hello World";
 		//String str="   fly me   to   the moon  ";
-		String str="luffy is still joy boy ";
+		String str="luffy is still joy boy";
 		//String str="luffy is still joyboy";
 		int count = 0;
 		int firstAlphabetFound=0;
